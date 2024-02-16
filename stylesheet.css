@@ -117,7 +117,6 @@ h1{
 	box-sizing: border-box;
 }
 .card{
-	/*padding-top: 200px;*/
 	margin-top: 200px;
 	box-sizing: border-box;
 	font-size: 17px;
@@ -186,16 +185,34 @@ h1{
 /******FOOTER*******/
 .page-footer{
 	background-color: pink;
-	height: 80px;
+	/*height: 80px;*/
 	width: 100%;
-	margin-top: 700px;
+	margin-top: 800px;
 
 }
 
 h3{
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: bold;
 	padding-left: 750px;
 	padding-top: 15px;
 	box-sizing: border-box;
+	text-transform: uppercase;
+}
+
+.social a{
+	margin-top: 15px;
+	display: block;
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	background: hotpink;
+	color: black;
+	text-align: center;
+	line-height: 44px;
+	margin-left: 355px;
+	
+}
+.social li{
+	display: inline-block;
 }
