@@ -89,11 +89,135 @@ body{
 /****MAIN*****/
 
 /****BANNER*****/
-.banner-block2{
-	height: 100px;
-	width: 100%;
-	background: url("../images/page 2 banner.png");
-	background-size: cover;
-	padding-top: 400px;
+
+.card{
+	margin-top: 50px;
 	box-sizing: border-box;
+	font-size: 17px;
+	position: absolute;
+}
+.card-img-top{
+	height: 300px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	padding-left: 30px;
+}
+.card-img-top2{
+	height: 300px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	padding-left: 30px;
+}
+.card-title{
+	font-weight: bold;
+	font-family: Times New Roman;
+	padding-left: 37px;
+	padding-bottom: 15px;
+}
+.card-text{
+	padding-bottom: 20px;
+
+}
+.card-title2{
+	font-weight: bold;
+	font-family: Times New Roman;
+	padding-left: 37px;
+	padding-bottom: 15px;
+}
+.card-text2{
+	padding-bottom: 20px;
+}
+
+.card2{
+	padding-left: 420px;
+	padding-top: 50px;
+	font-size: 17px;
+	position: absolute;
+
+}
+
+.card3{
+	padding-left: 840px;
+	padding-top: 50px;
+	font-size: 17px;
+	position: absolute;
+
+}
+.card-title3{
+	font-weight: bold;
+	font-family: Times New Roman;
+	padding-left: 37px;
+	padding-bottom: 15px;
+
+}
+.card-text3{
+	padding-bottom: 20px;
+}
+
+.card4{
+	margin-top: 700px;
+	box-sizing: border-box;
+	font-size: 17px;
+	position: absolute;
+}
+
+.card-img-top{
+	height: 300px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	padding-left: 30px;
+}
+
+.card-img-top4{
+	height: 300px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	padding-left: 30px;
+}
+
+.card-title4{
+	font-weight: bold;
+	font-family: Times New Roman;
+	padding-left: 37px;
+	padding-bottom: 15px;
+}
+
+.card-text4{
+	padding-bottom: 20px;
+
+}
+
+/******FOOTER*******/
+.page-footer{
+	background-color: pink;
+	/*height: 80px;*/
+	width: 100%;
+	margin-top: 1300px;
+
+}
+
+h3{
+	font-size: 15px;
+	font-weight: bold;
+	padding-left: 750px;
+	padding-top: 15px;
+	box-sizing: border-box;
+	text-transform: uppercase;
+}
+
+.social a{
+	margin-top: 15px;
+	display: block;
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	background: hotpink;
+	color: black;
+	text-align: center;
+	line-height: 44px;
+	margin-left: 355px;
+	
+}
+.social li{
+	display: inline-block;
 }
